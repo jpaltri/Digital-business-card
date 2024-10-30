@@ -32,14 +32,14 @@ body {
 }
 
 .about--name{
-    border: 1px red solid;  
+    border: 1px solid;  
     font-size: 25px;
     font-weight: 700;
     margin-bottom: 6px;
 }
 
 .about--title{
-    border: 1px red solid;
+    border: 1px solid;
     font-size: 12.8px;
     font-weight: 400;
     color: #CDCDCD;
@@ -48,7 +48,7 @@ body {
 }
 
 .about--website{
-    border: 1px red solid;
+    border: 1px solid;
     margin-top: 0;
     font-family: Inter;
     font-size: 10.24px;
